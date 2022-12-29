@@ -1,4 +1,4 @@
-Add back load more matches functionality on Halo Waypoint via Tampermonkey script
+Add back load more matches functionality on Halo Waypoint via Tampermonkey script, hopefully they will add it themselves someday
 
 (youtube video)
 
